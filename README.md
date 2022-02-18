@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Calebe</h1>
 <h3 align="center">A passionate data science student from Brazil</h3>
 
-- 🔭 I’m currently working on **Autoglass**
-
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
 - 💬 Ask me about **Python and Statistics**
