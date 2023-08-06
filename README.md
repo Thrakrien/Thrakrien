@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Calebe from Brazil<br><br>- 🔭 I'm working as Data Scientist in Autoglass Brasil<br>- 📚 I'm currently learning MLOps, Machine Learning Architecture and Cloud Computing<br>- ⚡ In my free time, I read sci-fi and theology books. Also passionate about music and playing league of legends.
+<p align="left"><br>- 🔭 I'm working as Data Scientist in Autoglass Brasil<br>- 📚 I'm currently learning MLOps, Machine Learning Architecture and Cloud Computing<br>- ⚡ In my free time, I read sci-fi and theology books. Also passionate about music and playing league of legends.
 
 </p>
 
