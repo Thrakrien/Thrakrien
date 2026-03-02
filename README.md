@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I'm working as Data Scientist at will bank <br>- 📚 I'm currently learning MLOps, Machine Learning Architecture and Cloud Computing<br>- ⚡ In my free time, I read sci-fi and theology books. Also passionate about music and playing league of legends.
+- 🔭 I'm working as Data Scientist <br>- 📚 I'm currently learning MLOps, Machine Learning Architecture and Cloud Computing<br>- ⚡ In my free time, I read sci-fi and theology books. Also passionate about music and playing league of legends.
 
 
 ## 🌐 Socials:
